@@ -1,0 +1,23 @@
+```gitignore
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# ML Models
+*.pkl
+*.h5
+*.pt
+
+# Dataset Files
+*.csv
+
+# ASP.NET
+bin/
+obj/
+.vs/
+
+# OS Files
+.DS_Store
+__MACOSX/
+```
