@@ -1,4 +1,4 @@
-# 🎓 CareerML - AI-Based Career Prediction & Recommendation System
+# 🎓 AspireGuide- AI-Based Career Prediction & Recommendation System
 
 CareerML is a full-stack web application that combines **Machine Learning** with **ASP.NET MVC** and **Flask API** to provide intelligent career prediction and recommendation services based on user inputs and datasets.
 
